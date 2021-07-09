@@ -5,3 +5,4 @@ Oranges
 Pineapples
 Avocado
 Carrots
+Cereals
